@@ -4,6 +4,10 @@
 
 <div align="center">
 
+![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)
+![FiveM](https://img.shields.io/badge/FiveM-Ready-green.svg)
+![License](https://img.shields.io/badge/license-Commercial-red.svg)
+
 **A professional and optimized script to rob ATMs with an immersive alert system**
 
 [🇫🇷 Version Française](README-FR.md) | [📖 Notification Guide EN](NOTIFICATION-EN.md)
